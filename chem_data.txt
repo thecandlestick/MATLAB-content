@@ -1,0 +1,12 @@
+TIME: 08:00 | CHEM: Poly-A | RATE: 65.5 gal/hr | TANK: 4500 gal
+TIME: 08:15 | CHEM: Poly-B | RATE: 72.1 gal/hr | TANK: 3200 gal
+TIME: 08:30 | CHEM: Poly-C | RATE: 48.3 gal/hr | TANK: 1200 gal
+TIME: 08:45 | CHEM: Poly-B | RATE: 42.0 gal/hr | TANK: 5000 gal
+TIME: 09:00 | CHEM: Poly-A | RATE: 55.4 gal/hr | TANK: 2800 gal
+TIME: 09:15 | CHEM: Poly-A | RATE: 82.1 gal/hr | TANK: 950 gal
+TIME: 09:30 | CHEM: Poly-A | RATE: 88.5 gal/hr | TANK: 4100 gal
+TIME: 09:45 | CHEM: Poly-C | RATE: 79.2 gal/hr | TANK: 3100 gal
+TIME: 10:00 | CHEM: Poly-C | RATE: 30.5 gal/hr | TANK: 500 gal
+TIME: 10:15 | CHEM: Poly-B | RATE: 61.0 gal/hr | TANK: 3900 gal
+TIME: 10:30 | CHEM: Poly-C | RATE: 40.7 gal/hr | TANK: 3000 gal
+TIME: 10:45 | CHEM: Poly-B | RATE: 21.0 gal/hr | TANK: 1100 gal
